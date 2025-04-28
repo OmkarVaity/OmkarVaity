@@ -3,9 +3,6 @@
 ![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Omkar+Vaity.;Software+Developer+%7C+Cloud+Enthusiast+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!)
 
 ---
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OmkarVaity.OmkarVaity" alt="visitor badge"/>
-</p>
 
 ## 👨‍💻 About Me
 
