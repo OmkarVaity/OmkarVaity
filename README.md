@@ -45,10 +45,5 @@ Feel free to connect — let's build something amazing together! 🎉
 
 ---
 
-## 🌟 GitHub Stats
-
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmkarVaity&show_icons=true&theme=radical)
-
----
 
 _"Strive not to be a success, but rather to be of value." — Albert Einstein_
