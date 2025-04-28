@@ -1,5 +1,6 @@
 # Hi there, I'm Omkar Vaity! 👋
 
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Omkar+Vaity.;Software+Developer+%7C+Cloud+Enthusiast+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!)
 
 ---
 
@@ -16,12 +17,15 @@ I love diving deep into **backend systems**, **cloud infrastructure**, **blockch
 
 ## 🎓 Skills
 
-- **Programming Languages**: `Java` `TypeScript` `JavaScript`
-- **Web Development**: `Node.js` `React.js`
-- **Cloud Technologies**: `AWS` `Terraform` `Serverless Framework`
-- **Blockchain Development**: `Solidity Basics` `NFT DApps`
-- **Databases**: `PostgreSQL` `MongoDB`
-- **Tools & Platforms**: `GitHub` `Docker Basics` `Linux` `Figma`
+### 🛠️ Languages and Tools:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
